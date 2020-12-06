@@ -1,10 +1,6 @@
-name: Java CI with Gradle
+name: Prison Build
 
-on:
-  push:
-    branches: [ bleeding ]
-  pull_request:
-    branches: [ master ]
+on: [push]
 
 jobs:
   build:
