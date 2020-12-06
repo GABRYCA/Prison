@@ -1,4 +1,4 @@
-name: Prison Build
+name: Java CI with Gradle
 
 on:
   push:
