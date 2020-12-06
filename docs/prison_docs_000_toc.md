@@ -9,7 +9,7 @@
 * **[Prison LICENSE.md](../LICENSE.md)**
 * **[Prison Change logs](../changelog_v3.2.x.md)** Detailed changes to prison.
 * **[Prison Known Issues](../knownissues_v3.2.x.md)** Known Issues and To Do's.
-* **[Prison Discord Server](https://discord.gg/DCJ3j6r)** Get help here.
+* **[Prison Discord Server](https://discord.gg/DCJ3j6r)** Get help here. 
 
 
 * **[Most Recent Version of Prison Documentation](https://github.com/PrisonTeam/Prison/blob/bleeding/docs/prison_docs_000_toc.md)** Docs change frequently, but GITHUG's master versions do not. These are the latest docs!
